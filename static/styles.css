@@ -15,11 +15,12 @@ body {
 
 #logo h1 {
     font-size: 60px;
+    margin-left: 10px;
 }
 
 #navbar ul {
     list-style-type: none;
-    margin-left: 700px;
+    margin-left: 600px;
     font-size: 25px;
     padding: 20px;
 }
